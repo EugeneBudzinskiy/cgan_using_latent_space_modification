@@ -69,19 +69,19 @@ pip install -r requirements.txt
 
 #### **Generator (StyleGAN2, ProjectedGAN fork)**
 
-- Download [generator checkpoint]([https://drive.google.com/file/d/19_8eLCIBUCpmhO9PWV39bzkdj5Xz7gEp/view?usp=sharing])  
+- Download [generator checkpoint](https://drive.google.com/file/d/19_8eLCIBUCpmhO9PWV39bzkdj5Xz7gEp/view?usp=sharing)  
   Place at: `generator/files/training-runs/network-snapshot.pkl`
 
 #### **Encoder**
-- Download [encoder checkpoint]([https://drive.google.com/file/d/10UwNxmLVGkv39akk-4F4vL5UGZo9DpNo/view?usp=sharing])  
+- Download [encoder checkpoint](https://drive.google.com/file/d/10UwNxmLVGkv39akk-4F4vL5UGZo9DpNo/view?usp=sharing)  
   Place at: `encoder/files/checkpoint/model_at_0100.pth`
 
 #### **Classifier**
-- Download [classifier checkpoint]([https://drive.google.com/file/d/1j7lacpg6UAIB1IlRV9JMdSN90FIKwVPH/view?usp=sharing])  
+- Download [classifier checkpoint](https://drive.google.com/file/d/1j7lacpg6UAIB1IlRV9JMdSN90FIKwVPH/view?usp=sharing)  
   Place at: `classificator/files/checkpoint/model_at_0013.pth`
 
 #### **Mapper**
-- Download [mapper checkpoint]([https://drive.google.com/file/d/1RUJI3VIAYck12UjG4pMovtlN1MQBkRVw/view?usp=sharing])  
+- Download [mapper checkpoint](https://drive.google.com/file/d/1RUJI3VIAYck12UjG4pMovtlN1MQBkRVw/view?usp=sharing)  
   Place at: `mapper/files/checkpoint/model_at_0217.pth`
 
 ---
